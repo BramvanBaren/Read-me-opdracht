@@ -8,4 +8,10 @@ mijn favoriete eten top 3;
 3. Hamburgers
 # H3 Ik zit ook op voetbal
 **_Ik voetbal bij de club VV de Blokkers. Maar dit jaar in een combiteam met HSV.**_
-(https://www.google.com "Google's Homepage") een linkje naar google.
+(https://www.google.com "Dit is google") 
+
+| Dit is        |    stom       | leuk      |
+| ------------- |:-------------:|----------:|
+| school is     | Vaak wel toch | Soms wel  |
+| eten is       |  |  |
+| gamen         |  |  |
