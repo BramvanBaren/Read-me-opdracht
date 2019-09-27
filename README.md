@@ -13,5 +13,5 @@ mijn favoriete eten top 3;
 | Dit is        |    stom       | leuk      |
 | ------------- |:-------------:|----------:|
 | school is     | Vaak wel toch | Soms wel  |
-| eten is       |  |  |
-| gamen         |  |  |
+| eten is       | Zeker niet    | Zeker wel |
+| gamen         | Als ik verlies| Als ik win|
